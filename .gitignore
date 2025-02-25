@@ -15,4 +15,5 @@
 /src/yarn-error.log
 /src/.route
 /docker/mysql/data
+.DS_Store
 /.vscode
